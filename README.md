@@ -1,0 +1,1 @@
+# Ripe Static Starter
