@@ -3,7 +3,7 @@
 
 ## Installing a new project
 ##### Step 0—Navigate to where you would like your project to be located
-Open the terminal(we prefer iTerm) and navigate to the correct location
+Open the terminal (we prefer iTerm) and navigate to your desired location
 
 ```
 cd you/can/go/anywhere
@@ -19,9 +19,9 @@ bash <(curl -s https://raw.githubusercontent.com/ripestudios/src--static-site/ma
 ```
 
 ##### Step 2—Install Node Modules
-The install script will prompt you if you would like to install the node modules for the new project
+The install script will prompt if you would like to install the node modules for the new project
 
-*Note these are close to 200mb*
+*Keep in mind the node modules are close to 200mb*
 
 ##### Step 3—Enjoy
 Carry forth and make something awesome!
