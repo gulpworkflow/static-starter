@@ -1,4 +1,4 @@
-# Ripe Static Starter
+# Starter source code for a static site
 *More Documentation to be added*
 
 ## Installing a new project
