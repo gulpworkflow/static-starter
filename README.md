@@ -1,4 +1,4 @@
-# Starter source code for a static site
+# Static Site source for [Gulp Workflow](https://github.com/ripe-gulp-workflow/gulp-workflow)
 *More Documentation to be added*
 
 ## Installing a new project
