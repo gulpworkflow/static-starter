@@ -15,7 +15,7 @@ To install a new static site run the install script command followed by the name
 *Note replace [project-name] with the name of your project*
 
 ```
-bash <(curl -s https://raw.githubusercontent.com/ripestudios/src--static-site/master/install.bash) [project name]
+bash <(curl -s https://raw.githubusercontent.com/glupworkflow/static-starter/master/install.bash) [project name]
 ```
 
 ##### Step 2—Install Node Modules
