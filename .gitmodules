@@ -1,0 +1,6 @@
+[submodule "src/scss"]
+	path = src/scss
+	url = https://github.com/gulpworkflow/scss-starter
+[submodule "src/icons"]
+	path = src/icons
+	url = https://github.com/gulpworkflow/iconfont-starter
